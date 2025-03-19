@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+self-control
+# Self-Control
 
 > Slugline
 
@@ -16,6 +16,9 @@ repository-name
 - [Telemetry](./TELEMETRY.md)
 
 **Executive Summary**
+
+== IMAGE GOES HERE==<br/>
+[Prioritization Management](https://github.com/vanHeemstraSystems/prioritization-management)
 
 Text
 
