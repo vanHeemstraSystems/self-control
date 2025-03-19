@@ -17,7 +17,7 @@ self-control
 
 **Executive Summary**
 
-==IMAGE GOES HERE==<br/>
+![Image](https://github.com/user-attachments/assets/9ed01842-84bd-4886-8bb4-fae0ab3cdbfe)<br/>
 Pyramid of Success: **Self-Control**
 
 ![Image](https://github.com/user-attachments/assets/366b6d18-6b50-495b-8dd1-f0c2ff08462a)<br/>
